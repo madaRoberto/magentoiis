@@ -1,0 +1,16 @@
+--- .gitignore
++++ .gitignore
+@@ -49,3 +49,5 @@ atlassian*
+ !/var/.htaccess
+ /vendor/*
+ !/vendor/.htaccess
++
++chef-runtime.path
+--- .gitignore
++++ .gitignore
+@@ -49,5 +49,3 @@ atlassian*
+ !/var/.htaccess
+ /vendor/*
+ !/vendor/.htaccess
+-
+-chef-runtime.path
